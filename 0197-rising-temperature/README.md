@@ -54,5 +54,5 @@ In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
 <img width="790" alt="스크린샷 2024-10-17 오후 2 00 35" src="https://github.com/user-attachments/assets/f2714859-d63c-442c-9d64-c08d7893d99b">
 <br/>
 <br/>
-# Cupucharm Tistory : [날짜 함수 DATE_ADD, DATEDIFF](https://cupucharm.tistory.com/entry/MySQL-%EB%82%A0%EC%A7%9C-%ED%95%A8%EC%88%98-DATEADD-DATEDIFF-LeetCode-197)
+- Cupucharm Tistory : [날짜 함수 DATE_ADD, DATEDIFF](https://cupucharm.tistory.com/entry/MySQL-%EB%82%A0%EC%A7%9C-%ED%95%A8%EC%88%98-DATEADD-DATEDIFF-LeetCode-197)
 
