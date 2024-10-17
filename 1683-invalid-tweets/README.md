@@ -43,7 +43,7 @@ Tweet 2 has length = 33. It is an invalid tweet.
 </pre>
 
 <hr>
-![image](https://github.com/user-attachments/assets/af5f2cbc-9e01-4b62-9744-44ca2898ab4d)
-![image](https://github.com/user-attachments/assets/c92ae8ef-79f3-42a2-9505-eca01094253b)
+<img width="804" alt="스크린샷 2024-10-17 오후 1 56 31" src="https://github.com/user-attachments/assets/ee7768de-3ae2-49cc-aa0b-a08be2167986">
+
 https://cupucharm.tistory.com/entry/MySQL-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B8%B8%EC%9D%B4-CHARLENGTH-LENGTH
 
