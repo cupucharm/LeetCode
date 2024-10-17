@@ -41,3 +41,9 @@ Tweets table:
 Tweet 1 has length = 11. It is a valid tweet.
 Tweet 2 has length = 33. It is an invalid tweet.
 </pre>
+
+<hr>
+![image](https://github.com/user-attachments/assets/af5f2cbc-9e01-4b62-9744-44ca2898ab4d)
+![image](https://github.com/user-attachments/assets/c92ae8ef-79f3-42a2-9505-eca01094253b)
+https://cupucharm.tistory.com/entry/MySQL-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B8%B8%EC%9D%B4-CHARLENGTH-LENGTH
+
