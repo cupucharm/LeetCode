@@ -80,3 +80,9 @@ User 3 made 2 requests and both timed out. The confirmation rate is 0.
 User 7 made 3 requests and all were confirmed. The confirmation rate is 1.
 User 2 made 2 requests where one was confirmed and the other timed out. The confirmation rate is 1 / 2 = 0.5.
 </pre>
+<br/>
+<hr>
+<h2>[MySQL] 조건문 CASE 문 (LeetCode 1934)</h2>
+<img width="766" alt="스크린샷 2024-10-18 오전 9 56 11" src="https://github.com/user-attachments/assets/900051a6-f417-4bda-b189-d4610fd58eee">
+<br/><br/>
+https://cupucharm.tistory.com/entry/MySQL-%EC%A1%B0%EA%B1%B4%EB%AC%B8-CASE-%EB%AC%B8-LeetCode-1934
