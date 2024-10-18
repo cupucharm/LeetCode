@@ -111,3 +111,9 @@ Bob attended the Math exam 1 time, the Programming exam 1 time, and did not atte
 Alex did not attend any exams.
 John attended the Math exam 1 time, the Physics exam 1 time, and the Programming exam 1 time.
 </pre>
+<br/>
+<hr>
+<img width="772" alt="스크린샷 2024-10-18 오전 9 53 37" src="https://github.com/user-attachments/assets/f78ac981-2542-4bf8-b278-d63fe6770d70">
+<img width="746" alt="스크린샷 2024-10-18 오전 9 53 47" src="https://github.com/user-attachments/assets/2176f028-fd0a-46e3-ae2d-9a21bbf4fb0c">
+<br/><br/>
+https://cupucharm.tistory.com/entry/MySQL-%ED%81%AC%EB%A1%9C%EC%8A%A4-%EC%A1%B0%EC%9D%B8-CROSS-JOIN-LeetCode-1280
