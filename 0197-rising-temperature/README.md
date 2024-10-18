@@ -49,10 +49,11 @@ In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
 
 <br/>
 <hr>
+<h2>[MySQL] 날짜 함수 DATE_ADD, DATEDIFF (LeetCode 197)</h2>
 <img width="790" alt="스크린샷 2024-10-17 오후 2 00 12" src="https://github.com/user-attachments/assets/2752305a-b0bb-4c87-a4b3-284be1cdf190">
 <img width="790" alt="스크린샷 2024-10-17 오후 2 00 26" src="https://github.com/user-attachments/assets/f00eb23a-0e39-4ed9-b95d-11130f7672c6">
 <img width="790" alt="스크린샷 2024-10-17 오후 2 00 35" src="https://github.com/user-attachments/assets/f2714859-d63c-442c-9d64-c08d7893d99b">
 <br/>
 <br/>
-- Cupucharm Tistory : [날짜 함수 DATE_ADD, DATEDIFF](https://cupucharm.tistory.com/entry/MySQL-%EB%82%A0%EC%A7%9C-%ED%95%A8%EC%88%98-DATEADD-DATEDIFF-LeetCode-197)
+https://cupucharm.tistory.com/entry/MySQL-%EB%82%A0%EC%A7%9C-%ED%95%A8%EC%88%98-DATEADD-DATEDIFF-LeetCode-197
 
