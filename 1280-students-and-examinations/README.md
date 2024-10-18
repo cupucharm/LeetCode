@@ -113,6 +113,7 @@ John attended the Math exam 1 time, the Physics exam 1 time, and the Programming
 </pre>
 <br/>
 <hr>
+<h2>[MySQL] 크로스 조인 CROSS JOIN (LeetCode 1280)</h2>
 <img width="772" alt="스크린샷 2024-10-18 오전 9 53 37" src="https://github.com/user-attachments/assets/f78ac981-2542-4bf8-b278-d63fe6770d70">
 <img width="746" alt="스크린샷 2024-10-18 오전 9 53 47" src="https://github.com/user-attachments/assets/2176f028-fd0a-46e3-ae2d-9a21bbf4fb0c">
 <br/><br/>
