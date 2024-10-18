@@ -46,3 +46,9 @@ Transactions table:
 | 2019-01  | DE      | 1           | 1              | 2000               | 2000                  |
 +----------+---------+-------------+----------------+--------------------+-----------------------+
 </pre>
+<br/>
+<hr>
+<h2>[MySQL] 시간/날짜 함수 DATE_FORMAT (LeetCode 1193)</h2>
+<img width="657" alt="스크린샷 2024-10-18 오전 9 58 39" src="https://github.com/user-attachments/assets/098466b7-61de-4802-8369-8fa9f0323327">
+<br/><br/>
+https://cupucharm.tistory.com/entry/MySQL-%EC%8B%9C%EA%B0%84%EB%82%A0%EC%A7%9C-%ED%95%A8%EC%88%98-DATEFORMAT-LeetCode-1193
